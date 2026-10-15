@@ -1,0 +1,23 @@
+{
+    "input_file": "data\\raw\\alternaria\\proteome\\alternaria_alternata_GCF_001642055.1_protein.faa",
+    "protein_count": 13466,
+    "cpu_cores_reported": 20,
+    "workers": 4,
+    "repeats": 3,
+    "serial_times_seconds": [
+        0.5631800999981351,
+        0.5347091000003275,
+        0.5340244000253733
+    ],
+    "parallel_times_seconds": [
+        0.8779425999964587,
+        0.8607437000027858,
+        0.8824506000091787
+    ],
+    "serial_mean_seconds": 0.5439712000079453,
+    "parallel_mean_seconds": 0.8737123000028078,
+    "speedup": 0.6225976216727145,
+    "parallel_efficiency": 0.15564940541817862,
+    "environment": "Local CPU multiprocessing",
+    "note": "This is a local benchmark, not a distributed HPC cluster benchmark. Results depend on system load and multiprocessing overhead."
+}

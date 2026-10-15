@@ -1,0 +1,12 @@
+ALTERNARIA PROTEIN PROCESSING BENCHMARK
+==========================================
+Input: data\raw\alternaria\proteome\alternaria_alternata_GCF_001642055.1_protein.faa
+Protein count: 13466
+Workers: 4
+Repeats: 3
+Mean serial time: 0.5440 seconds
+Mean parallel time: 0.8737 seconds
+Speedup: 0.6226x
+Parallel efficiency: 0.1556
+
+Note: local CPU benchmark; not a distributed HPC run.
